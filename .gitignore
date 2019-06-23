@@ -7,24 +7,24 @@ private
 # KiCad Files
 
 # Temporary files
-kicad/*.000
-kicad/*.bak
-kicad/*.bck
-kicad/*.kicad_pcb-bak
-kicad/*~
-kicad/_autosave-*
-kicad/*.tmp
-kicad/*-save.pro
-kicad/*-save.kicad_pcb
-kicad/fp-info-cache
+LEDDriver-5V/*.000
+LEDDriver-5V/*.bak
+LEDDriver-5V/*.bck
+LEDDriver-5V/*.LEDDriver-5V_pcb-bak
+LEDDriver-5V/*~
+LEDDriver-5V/_autosave-*
+LEDDriver-5V/*.tmp
+LEDDriver-5V/*-save.pro
+LEDDriver-5V/*-save.LEDDriver-5V_pcb
+LEDDriver-5V/fp-info-cache
 
 # Netlist files (exported from Eeschema)
-kicad/*.net
+LEDDriver-5V/*.net
 
 # Autorouter files (exported from Pcbnew)
-kicad/*.dsn
-kicad/*.ses
+LEDDriver-5V/*.dsn
+LEDDriver-5V/*.ses
 
 # Exported BOM files
-kicad/*.xml
-kicad/*.csv
+LEDDriver-5V/*.xml
+LEDDriver-5V/*.csv
